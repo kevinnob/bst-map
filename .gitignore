@@ -1,0 +1,7 @@
+# Ignore compiled files
+*.exe
+*.o
+*.out
+
+# Ignore debug logs
+*.dSYM/
