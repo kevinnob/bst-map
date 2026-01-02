@@ -99,8 +99,6 @@ for (const auto &kv : counts) {
 
 ---
 
-## Why This Project Matters
-
 This project emphasizes **fundamental CS concepts** that underlie many real systems:
 
 - Recursive reasoning over tree-structured data
@@ -123,7 +121,3 @@ These skills directly transfer to **systems programming**, **performance-critica
 
 ---
 
-## License
-
-Student-authored code.  
-Reuse with attribution.
